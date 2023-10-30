@@ -33,9 +33,9 @@ class HomeScreen extends StatelessWidget {
                 scrollDirection: Axis.horizontal,
                 child: Row(
                   children: [
-                    ImageCard("https://picsum.photos/id/66/300/200"),
-                    ImageCard("https://picsum.photos/id/76/300/200"),
-                    ImageCard("https://picsum.photos/id/87/300/200"),
+                    ImageCard("https://picsum.photos/id/101/300/200"),
+                    ImageCard("https://picsum.photos/id/111/300/200"),
+                    ImageCard("https://picsum.photos/id/121/300/200"),
                   ],
                 ),
               ),
