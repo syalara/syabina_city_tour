@@ -97,7 +97,7 @@ class ImageWithCaption extends StatelessWidget {
     return Column(
       children: [
         Image.network(
-          "https://picsum.photos/id/66/200/300",
+          "https://picsum.photos/id/101/200/300",
           width: double.infinity,
           height: 250.0,
           fit: BoxFit.cover,
